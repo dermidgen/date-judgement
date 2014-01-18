@@ -1,1 +1,14 @@
-{"lib":{"www":{"id":"phonegap","version":"3.0.0","uri":"https://github.com/phonegap/phonegap-app-hello-world/archive/3.0.0.tar.gz"}},"id":"com.phonegap.hello-world","name":"HelloWorld","phonegap":{"id":738055}}
+{
+  "lib": {
+    "www": {
+      "id": "phonegap",
+      "version": "3.0.0",
+      "uri": "https://github.com/dermidgen/date-judgement"
+    }
+  },
+  "id": "com.grahamhackers.date-judgement",
+  "name": "Date Judgement",
+  "phonegap": {
+    "id": 738054
+  }
+}
