@@ -1,0 +1,25 @@
+{
+  "name": "date-judgement",
+  "description": "Dating with accountability?",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "nano": "*"
+  },
+  "contributors": [
+    {
+      "name": "Danny Graham",
+      "email": "good.midget@gmail.com",
+      "web": "http://www.grahamhackers.com"
+    },
+    {
+      "name": "Scott Thundercloud",
+      "email": "scott.tc@gmail.com"
+    }
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "~0.4.4"
+  }
+}
